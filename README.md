@@ -57,7 +57,7 @@ This is a lot of text sorry
 
         - Other players cannot see hidden warps or permissions nodes
 
-        - If the player has permission to visit the warp, they will see the warp the name/owner/location of the warp
+        - If the player has permission to visit the warp, they will see the warp and the name/owner/location of the warp
 
         - If the player doesn't have permission to visit the warp, they will see the name/owner of the warp
 
