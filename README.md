@@ -64,7 +64,7 @@ Requirements: PermissionsEx
         - If executed by console, shows all info
 ```python
 # Private warps are intended for most players. 
-# Warps created will be automatically assigned a permissions node (captainwarp.warps.\<warpname>)
+# Warps created will be automatically assigned a permissions node (captainwarp.warps.<warpname>)
 # Owners of warps can give/revoke access to players as they wish (regardless of their permissions)
 # Owners of warps with captainwarp.private.rename can rename their own private warps
 # Owners can update the location of their warps and remove them entirely
