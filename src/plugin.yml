@@ -1,0 +1,11 @@
+name: CaptainWarp
+main: me.captain.warp.CaptainWarp
+author: captainawesome7
+version: 2.0
+commands:
+  warp:
+    Description: Do warp stuff
+    Usage: /warp <stuff>
+  home:
+    Description: Do home stuff
+    Usage: /home <stuff>
