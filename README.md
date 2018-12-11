@@ -180,9 +180,9 @@ Requirements: PermissionsEx
         - The plugin will output the old node and new node if you want to run refactor after renode
 
 ``` python
-* Refactor is intended to be run after/in conjunction with renode
-* It is a way to easily update permissions without editing groups/users in the permissions.yml
-* It is resource intensive and powerful
+# Refactor is intended to be run after/in conjunction with renode
+# It is a way to easily update permissions without editing groups/users in the permissions.yml
+# It is resource intensive and powerful
 ```
 
    - refactor \<old node> \<new node> \<groupFlag>:
