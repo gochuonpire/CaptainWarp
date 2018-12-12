@@ -3,7 +3,7 @@
 
 This is a lot of text sorry
 
-**Requirements:** PermissionsEx
+**Requirements:** Spigot | PermissionsEx
 
 **Configuration:** /plugins/CaptainWarp/config.yml
 
